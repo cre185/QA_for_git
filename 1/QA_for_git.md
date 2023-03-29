@@ -1,4 +1,4 @@
-# Q&A File For Using Git (GitBash,github...)   
+# Q&A File For Using Git (Git Bash,github...)   
 ***Created by creeper185 2023.2.26***   
 
 ## 前言   
